@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Aurobind singh
+ * @author Devashish
  */
 public class create_acc extends javax.swing.JFrame {
 
