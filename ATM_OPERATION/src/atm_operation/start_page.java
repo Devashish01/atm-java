@@ -7,7 +7,7 @@ package atm_operation;
 
 /**
  *
- * @author Aurobind singh
+ * @author Devashish
  */
 public class start_page extends javax.swing.JFrame {
 
