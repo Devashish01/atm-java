@@ -7,7 +7,7 @@ package atm_operation;
 
 /**
  *
- * @author Aurobind singh
+ * @author Devashish
  */
 import java.sql.Connection;
 import java.sql.DriverManager;
